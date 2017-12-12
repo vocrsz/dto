@@ -1,0 +1,2 @@
+module DTO
+end
