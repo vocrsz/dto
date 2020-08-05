@@ -16,4 +16,5 @@ Gem::Specification.new do |s|
   
   s.homepage    = 'https://github.com/vocrsz/dto'
   s.license     = 'MIT'
+  
 end
