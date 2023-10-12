@@ -1,5 +1,5 @@
 # Ruby DTO
-Dumb ruby object, similar a Hash, but provide access to attributes by isntance methods
+Dumb ruby object, similar a Hash, but provide access to attributes by instance methods
 ## Instalation
 ```ruby
 gem 'dto', git: 'https://github.com/vocrsz/dto'
